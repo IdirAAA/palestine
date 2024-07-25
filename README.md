@@ -1,0 +1,2 @@
+# palestine
+first odin project 
